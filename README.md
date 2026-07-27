@@ -61,7 +61,6 @@ Certifications
 
 <div align="center">
 
-<sub>Build securely. Think critically. Keep learning.</sub>
 
 <br><br>
 
